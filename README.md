@@ -78,7 +78,7 @@ The site is deployed via **GitHub Pages** and automatically updates on every pus
 ## Author
 
 **Khoa Lam** — Web Developer & UI Designer  
-[GitHub](https://github.com/KhoaLam28) · [LinkedIn]((https://www.linkedin.com/in/khoa-lam-50042a3b0/))
+[GitHub](https://github.com/KhoaLam28) · [LinkedIn](https://www.linkedin.com/in/khoa-lam-50042a3b0/)
 
 ---
 
